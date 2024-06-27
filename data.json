@@ -5,8 +5,6 @@
     "getClientId_SCL": {
       "urls": ["*://api-v2.soundcloud.com/me"]
     }
-    "getSongUrl": {
-      "Parameters": ["in_system_playlist"]
-    }
+    "getSongUrl": ["in_system_playlist"]
   }
 }
