@@ -3,7 +3,7 @@
   "notification": "Thank For Use <3",
   "filter": {
     "getClientId_SCL": {
-      "urls": ['*://api-v2.soundcloud.com/me*']
+      "urls": ["*://api-v2.soundcloud.com/me"]
     }
     "getSongUrl": {
       "Parameters": ["in_system_playlist"]
