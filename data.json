@@ -4,7 +4,7 @@
   "filter": {
     "getClientId_SCL": {
       "urls": ["*://api-v2.soundcloud.com/me"]
-    }
+    },
     "getSongUrl": ["in_system_playlist"]
   }
 }
